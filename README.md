@@ -5,8 +5,10 @@ Uma aplicação basica que permite contar a quantidade de pessoas em um restaura
 
 ## Aplicação Funcionando:
 <p align="center">
-    <img width="300" src="Gifs/Lotado.gif">
-    <img width="300" src="Gifs/MundoInvertido.gif">
+    <img width="150" src="Gifs/Lotado.gif">    
+</p>
+<p align="center">
+    <img width="150" src="Gifs/MundoInvertido.gif">
 </p>
 
 ## Getting Started
