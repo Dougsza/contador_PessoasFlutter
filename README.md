@@ -2,6 +2,12 @@
 
 Uma aplicação que conta a quantidade de pessoas em um restaurante
 
+
+##Aplicação Funcionando:
+<p align="center">
+    <img width="300" src="Gifs/Lotado.gif">
+</p>>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
