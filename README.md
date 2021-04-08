@@ -1,12 +1,13 @@
 # contador_de_pessoas
 
-Uma aplicação que conta a quantidade de pessoas em um restaurante
+Uma aplicação basica que permite contar a quantidade de pessoas em um restaurante e se o mesmo se encontra cheio ou não.
 
 
-##Aplicação Funcionando:
+## Aplicação Funcionando:
 <p align="center">
     <img width="300" src="Gifs/Lotado.gif">
-</p>>
+    <img width="300" src="Gifs/MundoInvertido.gif">
+</p>
 
 ## Getting Started
 
