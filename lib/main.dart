@@ -11,15 +11,16 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-
+  //Variáveis
   int _people =0;
   String _infoText = "";
-
+// Método para mudar o número da variável _people
   void _changePeople(int delta){
+    //setState atualiza na tela a variavel _people
     setState(() {
       _people += delta;
       if(_people <0){
-        _infoText = "Mundo invertido?";
+        _infoText = "Número negativo";
         _people++;
       }else if(_people > 10){
         _infoText = "Lotado!!";
