@@ -3,14 +3,14 @@
 This is a basic aplication that count a number of peoples in a restaurant.
 
 <p align="center">
-    <img width="250" src="Gifs/Lotado.gif">&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="Gifs/Negativo.gif">  
+    <img width="200" src="Gifs/Lotado.gif">&nbsp;&nbsp;&nbsp;&nbsp;<img width="200" src="Gifs/Negativo.gif">  
 </p>
 
 ## Technologies
- - ✔ Git
+ - ✔ Git.
  - ✔ AndroidStudio.
- - ✔ Flutter
- - ✔ Dart
+ - ✔ Flutter.
+ - ✔ Dart.
 
 ## Flutter links
 
